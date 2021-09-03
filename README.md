@@ -1,8 +1,33 @@
-# annimation_splash_cloud
+# Mansour_Flutter_Challenges | Cloud Animation
 
-A new Flutter project.
+Use Flutter💪 to implement the UI challenge By Mr Abdullah Mansour 
 
-## Getting Started
+Get_Cli - Getx 
+
+<br><br>
+![example event parameter](https://img.shields.io/pub/v/get.svg?label=get&color=blue)  ![example event parameter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)
+
+
+
+
+## Video rendering : 
+
+https://user-images.githubusercontent.com/81202947/131941604-d4dc9e82-6956-4f24-bcd7-d7236a617c0f.mp4
+
+
+
+
+## Images rending : 
+
+
+
+
+<center><img align="center" height="500" src="https://user-images.githubusercontent.com/81202947/131941664-f6cce847-5ce1-4427-aabe-af55f3761192.jpg"> </center>
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
